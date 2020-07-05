@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # First blog!
 
 ## About me
