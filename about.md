@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Information about me
+Hi, this is Shirley's blog. I will up date my study process everyday.
 
-A place to include any other types of information that you'd like to include about yourself.
++ Mechatronics
++ Love all kinds of science, especially math.
++ Now I am studying UE4 for fun and Language C for academy.
++ Plan to learn Processing and OpenGL if time allows.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Shirley's GitHub](https://github.com/Shirley-Chili "Shirley-Chili")
